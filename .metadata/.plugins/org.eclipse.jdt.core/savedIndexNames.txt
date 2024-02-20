@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\dw1b\Desktop\Examen practico ende\2023-2024_EXAMEN-ENDE_EV2_JAVA_PRACTICO_V1\2023-2024_EXAMEN-ENDE_EV2_JAVA_PRACTICO_V1\.metadata\.plugins\org.eclipse.jdt.core
+3841185164.index
+1865797976.index
+3413725848.index
